@@ -1,0 +1,5 @@
+{
+  "name": "Asistente de Código IA",
+  "description": "Aprende a gestionar código generado por IA. Este simulador te guía a través de flujos de trabajo esenciales como control de versiones, refactorización y despliegue de proyectos creados por un asistente de IA.",
+  "requestFramePermissions": []
+}
